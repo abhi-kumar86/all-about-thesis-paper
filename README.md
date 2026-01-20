@@ -1,5 +1,5 @@
 research-paper-guidelines/
-               # Overview of the repository
+              # Overview of the repository
 ├── 1. Research_Basics/
 │   ├── 1.1. Introduction.md # Introduction to Research
 │   ├── 1.2. Research_Methodology.md # Research Methodology
